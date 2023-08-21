@@ -1,3 +1,4 @@
+// Refrence mini project 13-ORM to see the structure 
 const {
   Model,
   DataTypes

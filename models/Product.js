@@ -1,3 +1,4 @@
+// // Refrence mini project 13-ORM to see the structure - similar to the Traveller.js
 // import important parts of sequelize library
 const {
   Model,

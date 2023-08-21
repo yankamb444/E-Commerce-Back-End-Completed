@@ -1,3 +1,4 @@
+// Refrenced code in class repo (13-ORM, activities mini project)
 // start the server and go to the routes folder 
 const express = require('express');
 const routes = require('./routes');
