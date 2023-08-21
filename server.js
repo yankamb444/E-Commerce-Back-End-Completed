@@ -1,3 +1,4 @@
+// start the server and go to the routes folder 
 const express = require('express');
 const routes = require('./routes');
 // import sequelize connection
