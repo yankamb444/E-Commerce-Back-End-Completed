@@ -22,6 +22,7 @@ The goal of the challenge is to create a simple svg logo based on user inputs.
  1. mysql2: https://www.npmjs.com/package/mysql2
  2. Sequelize: https://www.npmjs.com/package/sequelize
  3. Dotenv: https://www.npmjs.com/package/dotenv 
+ 4. Express: https://www.npmjs.com/package/express 
 
 # Video Walkthrough 
 
