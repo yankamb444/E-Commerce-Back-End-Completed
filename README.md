@@ -1,8 +1,6 @@
 # E-Commerce-Back-End
-
-
 # Description 
-The goal of the challenge is to create a simple svg logo based on user inputs. 
+The goal of the challenge is to create a e-commerce site using Express.js and sequelize.
 
 # Acceptance Criteria 
  1. GIVEN a functional Express.js API
