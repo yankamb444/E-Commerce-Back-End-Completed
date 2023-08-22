@@ -24,6 +24,10 @@ The goal of the challenge is to create a e-commerce site using Express.js and se
 # Video Walkthrough 
 
 
+https://github.com/yankamb444/E-Commerce-Back-End-Completed/assets/127771643/ea93623b-c61e-470f-9b21-3b3b57c9015f
+
+
+
 # Resources Used
 This challenge was created with the help of a tutor, starter code, class examples (Mini project 13-ORM last in activities), and the resource(s) below.  
 
